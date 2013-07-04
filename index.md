@@ -1,11 +1,9 @@
 ---
 layout: page
-title: if (...) elfe {...}
+title: 
 tagline: 
 ---
 {% include JB/setup %}
-
-最近的文章：
 
 <ul class="posts">
   {% for post in site.posts %}
