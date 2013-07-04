@@ -3,9 +3,8 @@ layout: post
 title: "In Memory of..."
 description: ""
 category: 
-tags: []
+tags: [碎碎念]
 ---
-{% include JB/setup %}
 
 我很怀念03年，在南大小百合的blog上炫耀着《五块大排的五种做法》的那个丫头
 
