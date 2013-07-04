@@ -1,7 +1,6 @@
 # Jekyll-Bootstrap
 
-### Test Markdown and Git
-__interesting?__
+### Use Markdown to write blog
 
 
 The quickest way to start and publish your Jekyll powered blog. 100% compatible with GitHub pages
